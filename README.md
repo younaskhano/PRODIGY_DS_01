@@ -1,5 +1,5 @@
-# Prodigy InfoTech Internship: Population Visualization
-Welcome to the Prodigy InfoTech Internship repository! This repository documents Task X (replace X with the actual task number) of my internship journey, focusing on data visualization and population analysis.
+## Population Data Visualization and Analysis.
+Welcome to this repository! We will focusing on data visualization and population analysis.
 
 ## Task Overview 
 
